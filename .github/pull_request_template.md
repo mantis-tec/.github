@@ -6,8 +6,6 @@
   (Bug fix, feature, docs update, ...)
 
 
-### Why is this PR needed?
-
 
 ### What is the current behavior?
 
